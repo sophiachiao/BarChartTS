@@ -1,2 +1,1 @@
-# BarChartTS
-BarChartTS
+# D3ACT
